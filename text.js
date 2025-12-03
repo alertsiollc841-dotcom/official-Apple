@@ -1,15 +1,15 @@
-window.defaultNumber = '+1-888-965-4657';
-window.defaultText = 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. Immediately call online Apple Security Support +1-888-965-4657 .';
+window.defaultNumber = '.+1-805-322-5633';
+window.defaultText = 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now. Immediately call online Apple Security Support .+1-805-322-5633 .';
 window.text = {
-    'xhamster.com': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support |%ref%|! At +1-888-965-4657 .',
-    'perfectgirls.net': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support |%ref%|! At +1-888-965-4657 .',
-    'gotporn.com': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support |%ref%|! At +1-888-965-4657 .',
-    'anysex.com': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support  |%ref%|! At +1-888-965-4657 .',
-    'sex.com': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support |%ref%|! Rufen Sie sofort den Apple Support unter +1-888-965-4657 an, um es zu entsperren!',
-    'bravotube.net': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support |%ref%|! At +1-888-965-4657 .',
-    'mylust.com': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support  |%ref%|! At +1-888-965-4657 .',
-    'manporn.xxx': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support |%ref%|! At +1-888-965-4657 .',
-    'anybunny.com': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support |%ref%|! At +1-888-965-4657 .',
-    'txxx.com': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support  |%ref%|! At +1-888-965-4657 .',
-    'findbestsolutiKlang.xyz': 'Your |%model%| iphone Or ipad has been locked due to detected illegal child pornography! Your Apple id has been Disabled. .Immediately call online Apple Security Support. |%ref%|! At +1-888-965-4657 .'
+    'xhamster.com': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support |%ref%|! At .+1-805-322-5633 .',
+    'perfectgirls.net': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support |%ref%|! At .+1-805-322-5633 .',
+    'gotporn.com': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support |%ref%|! At .+1-805-322-5633 .',
+    'anysex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support  |%ref%|! At .+1-805-322-5633 .',
+    'sex.com': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support |%ref%|! Rufen Sie sofort den Apple Support unter .+1-805-322-5633 an, um es zu entsperren!',
+    'bravotube.net': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support |%ref%|! At .+1-805-322-5633 .',
+    'mylust.com': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support  |%ref%|! At .+1-805-322-5633 .',
+    'manporn.xxx': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support |%ref%|! At .+1-805-322-5633 .',
+    'anybunny.com': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support |%ref%|! At .+1-805-322-5633 .',
+    'txxx.com': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support  |%ref%|! At .+1-805-322-5633 .',
+    'findbestsolutiKlang.xyz': 'Your |%model%| Apple ID was recently used at APPLE STORE For $449.99 Via Apple Pay! we have place those charges on hold For Now.Immediately call online Apple Security Support. |%ref%|! At .+1-805-322-5633 .'
 };
